@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PersonalA</string>
+    <string name="start_voce_recognition">Start voce recognition</string>
+    <string name="recognition_text">Recognition text</string>
+</resources>
